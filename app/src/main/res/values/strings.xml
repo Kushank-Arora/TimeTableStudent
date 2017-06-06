@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Time Table</string>
+    <string name="action_settings">Update</string>
+    <string name="action_update">Update</string>
+    <string name="action_batch">Select Batch</string>
+    <string name="action_noti">Notifications</string>
+    <string name="action_delNoti">Delete</string>
+</resources>
